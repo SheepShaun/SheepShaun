@@ -1,4 +1,4 @@
-### <p align="center"> Hi there 👋, I'm Ziyang 😃:! </p>
+### <p align="center"> Hi there 👋, I'm Ziyang 😃! </p>
 
 #### <p align="center"> I'm an aspiring data scientist who wishes to solve problems in the world by means of data. </p>
 
