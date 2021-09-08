@@ -18,11 +18,11 @@
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 
-#### Connect with me 😆
+<!-- #### Connect with me 😆
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ziyang-zhang-aa51b11b9/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SheepShaun/SheepShaun/)
-
+ -->
 
 <!--
 **SheepShaun/SheepShaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
