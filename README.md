@@ -4,7 +4,7 @@
 
 - 😄 Visit my website: 
 - ✍️ I regulary write articles on https://medium.com/@ZiyangZhang.
-- 📫 Reach me at: zzyangshine@gmail.com or send a message on LinkedIn [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ziyang-zhang-aa51b11b9/)
+- 📫 Reach me at: zzyangshine@gmail.com or send a message on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ziyang-zhang-aa51b11b9/)
 &nbsp;.
 
 #### Languages 📌
