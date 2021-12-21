@@ -14,9 +14,9 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 </span>
 
-#### Tools 🔥
+<!-- #### Tools 🔥
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white) -->
 
 <!-- #### Connect with me 😆
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ziyang-zhang-aa51b11b9/)
