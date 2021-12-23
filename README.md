@@ -1,6 +1,6 @@
 ### <p align="center"> Hi there 👋, I'm Ziyang 😃! </p>
 
-#### <p align="center"> I'm an aspiring data scientist who wishes to solve problems in the world by means of data. </p>
+<!-- #### <p align="center"> I'm an aspiring data scientist who wishes to solve problems in the world by means of data. </p> -->
 
 - 😄 Visit my website: 
 - ✍️ I regulary write articles on https://medium.com/@ZiyangZhang.
