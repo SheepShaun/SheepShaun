@@ -2,9 +2,9 @@
 
 <!-- #### <p align="center"> I'm an aspiring data scientist who wishes to solve problems in the world by means of data. </p> -->
 
-- 😄 Visit my website: 
+- 😄 Visit my website: https://sheepshaun.github.io/Ziyang-Zhang.github.io/
 - ✍️ I regulary write articles on https://medium.com/@ZiyangZhang.
-- 📫 Reach me at: zzyangshine@gmail.com or send a message on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ziyang-zhang-aa51b11b9/)
+- 📫 Reach me at: ziyang@clemson.com or send a message on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ziyang-zhang-aa51b11b9/)
 &nbsp;.
 
 <!-- #### Languages 📌
